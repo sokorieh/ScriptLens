@@ -1,4 +1,4 @@
-ScriptLens is a program / site that converts your written texc to typed text.
+ScriptLens is a program / site that converts your written text to typed text.
 
 Requirements:
 - Flask
